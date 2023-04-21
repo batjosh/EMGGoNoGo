@@ -1,0 +1,11 @@
+C:\Users\joshm\OneDrive\Escritorio\EMG.NEt\GoNoGoTest\GoNoGoTest\bin\Debug\GoNoGoTest.exe.config
+C:\Users\joshm\OneDrive\Escritorio\EMG.NEt\GoNoGoTest\GoNoGoTest\bin\Debug\GoNoGoTest.exe
+C:\Users\joshm\OneDrive\Escritorio\EMG.NEt\GoNoGoTest\GoNoGoTest\bin\Debug\GoNoGoTest.pdb
+C:\Users\joshm\OneDrive\Escritorio\EMG.NEt\GoNoGoTest\GoNoGoTest\obj\Debug\GoNoGoTest.csproj.AssemblyReference.cache
+C:\Users\joshm\OneDrive\Escritorio\EMG.NEt\GoNoGoTest\GoNoGoTest\obj\Debug\GoNoGoTest.csproj.SuggestedBindingRedirects.cache
+C:\Users\joshm\OneDrive\Escritorio\EMG.NEt\GoNoGoTest\GoNoGoTest\obj\Debug\GoNoGoTest.Form1.resources
+C:\Users\joshm\OneDrive\Escritorio\EMG.NEt\GoNoGoTest\GoNoGoTest\obj\Debug\GoNoGoTest.Properties.Resources.resources
+C:\Users\joshm\OneDrive\Escritorio\EMG.NEt\GoNoGoTest\GoNoGoTest\obj\Debug\GoNoGoTest.csproj.GenerateResource.cache
+C:\Users\joshm\OneDrive\Escritorio\EMG.NEt\GoNoGoTest\GoNoGoTest\obj\Debug\GoNoGoTest.csproj.CoreCompileInputs.cache
+C:\Users\joshm\OneDrive\Escritorio\EMG.NEt\GoNoGoTest\GoNoGoTest\obj\Debug\GoNoGoTest.exe
+C:\Users\joshm\OneDrive\Escritorio\EMG.NEt\GoNoGoTest\GoNoGoTest\obj\Debug\GoNoGoTest.pdb
